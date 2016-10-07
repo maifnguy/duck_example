@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+  <!-- comments! -->
+    <head>
+    <meta charset="utf-8">
+    <title>About Ducks</title>    
+  </head>
+  <body>
+    <article>
+      <h1>All About Ducks</h1>
+      <h3>Their Origin</h3>
+      <p>The origin of ducks is shrouded in mystery, but it is whispered that they are the result of a bald eagle being struck by lightening.</p>
+      <h4>Why Ducks are Great</h4>
+      <ul>
+        <li>Cool Hair</li>
+        <li>Weird Feet</li>
+        <li>Fluffy</li>
+        <li>Good swimmer</li>
+      </ul>
+      
+      <img src="https://s-media-cache-ak0.pinimg.com/originals/2d/e1/35/2de135f66dd353c8e4be397fbea79411.jpg">
+    
+      <img src="https://i.ytimg.com/vi/luXBiZIi8fU/hqdefault.jpg">
+    
+      <img src="http://65.media.tumblr.com/e3765d491c157359e6d2fe3c7c6ed283/tumblr_mwfez5l5zO1sl7dkbo2_500.jpg">
+      <img src="http://tailandfur.com/wp-content/uploads/2014/03/Cute-Duck-3.jpg">
+      <footer>
+        Copyright, Mai 2016
+      </footer>
+      
+    </article>
+  </body>
+</html>
