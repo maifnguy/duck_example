@@ -18,14 +18,20 @@
         <li>Good swimmer</li>
       </ul>
       
+      <h4>Best Possible Names for Ducks</h4>
+      <ol>
+        <li>Frank</li>
+        <li>Peanut Butter</li>
+        <li>Purin</li>
+      </ol>
       <img src="https://s-media-cache-ak0.pinimg.com/originals/2d/e1/35/2de135f66dd353c8e4be397fbea79411.jpg">
     
       <img src="https://i.ytimg.com/vi/luXBiZIi8fU/hqdefault.jpg">
     
       <img src="http://65.media.tumblr.com/e3765d491c157359e6d2fe3c7c6ed283/tumblr_mwfez5l5zO1sl7dkbo2_500.jpg">
-      <img src="http://tailandfur.com/wp-content/uploads/2014/03/Cute-Duck-3.jpg">
       <footer>
-        Copyright, Mai 2016
+        Copyright Mai, 2016
+        Learn more about ducks at <a href="http://google.com">Google</a>.
       </footer>
       
     </article>
